@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/KAE-dev/fuelcalculation.svg?branch=master)](https://travis-ci.org/KAE-dev/fuelcalculation)
+[![Build Status](https://travis-ci.org/KAE-dev/fuelcalculation.svg?branch=master)](https://travis-ci.org/KAE-dev/fuelcalculation) [![codecov](https://codecov.io/gh/KAE-dev/fuelcalculation/branch/master/graph/badge.svg)](https://codecov.io/gh/KAE-dev/fuelcalculation)
