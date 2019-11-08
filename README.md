@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/KAE-dev/fuelcalculation.svg?branch=master)](https://travis-ci.org/KAE-dev/fuelcalculation)
